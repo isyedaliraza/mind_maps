@@ -1,2 +1,2 @@
 # Mind Maps
-This repository contains mind maps of different topics learned so far.
+This repository contains mind maps for different topics. I hope it will help someone too.
